@@ -4,8 +4,6 @@ node_modules/
 .pnp.js
 
 # Environment Variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -35,7 +33,6 @@ out/
 
 # IDE & Editor
 .idea/
-.vscode/
 *.swp
 *.swo
 .DS_Store
@@ -48,3 +45,7 @@ Thumbs.db
 # MongoDB
 data/
 db/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
